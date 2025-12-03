@@ -1,5 +1,8 @@
 # Weather-API
 🌦️ Live Weather Dashboard for Egypt – Power BI + WeatherAPI
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/b4c2deec-99bd-4955-a115-f9a7f368b67a" />
+
+
 
 This project is a fully dynamic and automated Weather Dashboard built in Power BI, powered by real-time data from WeatherAPI.
 It includes current conditions, hourly forecasts, 7-day forecasts, air quality metrics, and astronomy data.
